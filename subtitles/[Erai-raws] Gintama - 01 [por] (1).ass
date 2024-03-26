@@ -1,0 +1,425 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 480
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main01,Arial Narrow,24,&H00FFFFFF,&H0000FFFF,&H00000000,&H00404040,-1,0,0,0,100,100,0,0,1,1,1,2,0030,0030,0030,0
+Style: On Screen,Arial Rounded MT Bold,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0015,0015,0015,0
+Style: GintamaPTBR,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,0
+Style: Signs,Trebuchet MS,22,&H00BAFCF3,&H000000FF,&H001E0200,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+Style: Signs Red,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H003031FF,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0010,0010,0015,1
+Style: Continua,Trebuchet MS,22,&H00BAFCF3,&H000000FF,&H001E0200,&H96000000,-1,0,0,0,100,100,0,0,1,2,1,1,0080,0040,0135,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.55,GintamaPTBR,CAPTION,0000,0000,0000,,{\fad(470,470)}Gintama
+Dialogue: 0,0:00:13.37,0:00:14.99,GintamaPTBR,SAMURAI B,0000,0000,0000,,Jogue limpo…
+Dialogue: 0,0:00:16.43,0:00:17.65,GintamaPTBR,GINTOKI,0000,0000,0000,,Limpo?
+Dialogue: 0,0:00:17.65,0:00:19.67,Signs,CAPTION,0000,0000,0000,,Lago Toya
+Dialogue: 0,0:00:23.30,0:00:24.62,GintamaPTBR,GINTOKI,0000,0000,0000,,Não brinca!
+Dialogue: 0,0:00:24.62,0:00:27.68,GintamaPTBR,SAMURAI B,0000,0000,0000,,Ah! Ele está fugindo! Ele está fugindo \Ncomo se sua vida dependesse disso!
+Dialogue: 0,0:00:27.68,0:00:28.60,GintamaPTBR,SAMURAI A,0000,0000,0000,,Atrás dele!
+Dialogue: 0,0:00:29.50,0:00:33.09,GintamaPTBR,GINTOKI,0000,0000,0000,,Ninguém mais luta com espadas\Ndesde a proibição!
+Dialogue: 0,0:00:33.09,0:00:37.47,GintamaPTBR,NARRATOR,0000,0000,0000,,Gintoki Sakata. Sua marca registrada é o cabelo bagunçado.
+Dialogue: 0,0:00:37.47,0:00:40.20,GintamaPTBR,NARRATOR,0000,0000,0000,,Ele adora doces\Ne tem glicose alta.
+Dialogue: 0,0:00:40.20,0:00:43.04,GintamaPTBR,NARRATOR,0000,0000,0000,,Parece que ele é o personagem principal.
+Dialogue: 0,0:00:44.71,0:00:46.23,GintamaPTBR,SAMURAI,0000,0000,0000,,Espere!
+Dialogue: 0,0:00:46.23,0:00:49.68,GintamaPTBR,GINTOKI,0000,0000,0000,,Foi mal, mas eu tenho um programa para assistir às 16h.
+Dialogue: 0,0:00:50.89,0:00:52.27,GintamaPTBR,SHINPACHI,0000,0000,0000,,Gin!
+Dialogue: 0,0:00:52.65,0:00:53.36,GintamaPTBR,GINTOKI,0000,0000,0000,,Shinpachi?
+Dialogue: 0,0:00:53.79,0:00:56.28,GintamaPTBR,SHINPACHI,0000,0000,0000,,Gin, me ajude!
+Dialogue: 0,0:00:56.28,0:00:59.26,GintamaPTBR,NARRATOR,0000,0000,0000,,Shinpachi Shimura. Dá a deixa para as piadas.
+Dialogue: 0,0:00:59.26,0:01:02.74,GintamaPTBR,NARRATOR,0000,0000,0000,,Trabalha com Gintoki buscando aprender a ter uma alma de samurai.
+Dialogue: 0,0:01:02.74,0:01:06.30,GintamaPTBR,GINTOKI,0000,0000,0000,,Ei, você está deixando eles te seguirem, seu imbecil?
+Dialogue: 0,0:01:06.61,0:01:09.26,GintamaPTBR,SHINPACHI,0000,0000,0000,,Não é como se eu quisesse\N que me seguissem!
+Dialogue: 0,0:01:09.67,0:01:11.26,GintamaPTBR,GINTOKI,0000,0000,0000,,De qualquer modo, corra!
+Dialogue: 0,0:01:11.26,0:01:13.13,GintamaPTBR,SAMURAI,0000,0000,0000,,Esperem!
+Dialogue: 0,0:01:31.93,0:01:33.69,GintamaPTBR,SAMURAI,0000,0000,0000,,Agora pegamos vocês!
+Dialogue: 0,0:01:33.97,0:01:36.35,GintamaPTBR,KAGURA,0000,0000,0000,,Gin! Não estava aqui!
+Dialogue: 0,0:01:36.35,0:01:41.10,GintamaPTBR,NARRATOR,0000,0000,0000,,Kagura. Membro do Clã Yato, \Na raça mais poderosa do universo.
+Dialogue: 0,0:01:41.10,0:01:44.16,GintamaPTBR,,0000,0000,0000,,Ela é bonita, mas tem a língua afiada.
+Dialogue: 0,0:01:44.16,0:01:45.73,GintamaPTBR,SAMURAI A,0000,0000,0000,,Ei...
+Dialogue: 0,0:01:46.81,0:01:47.79,GintamaPTBR,SAMURAI A,0000,0000,0000,,O que é isto?
+Dialogue: 0,0:01:47.79,0:01:50.18,GintamaPTBR,NARRATOR,0000,0000,0000,,Sadaharu, animal de\Nestimação da Kagura.
+Dialogue: 0,0:01:50.18,0:01:52.10,GintamaPTBR,NARRATOR,0000,0000,0000,,Animal espacial gigante e misterioso.
+Dialogue: 0,0:01:52.10,0:01:56.19,GintamaPTBR,GINTOKI,0000,0000,0000,,Ei, entenda melhor a situação, acho que eles estão irritados!
+Dialogue: 0,0:01:56.19,0:01:59.23,GintamaPTBR,SHINPACHI,0000,0000,0000,,K-Kagura. Você devia fugir logo!
+Dialogue: 0,0:02:03.90,0:02:06.85,GintamaPTBR,KAGURA,0000,0000,0000,,Se eu não me apressar, "Lady's Four" vai começar!
+Dialogue: 0,0:02:06.85,0:02:09.63,GintamaPTBR,KAGURA,0000,0000,0000,,Toshio Shiba, espere por nós!
+Dialogue: 0,0:02:10.93,0:02:12.53,GintamaPTBR,SAMURAI,0000,0000,0000,,Esperem!
+Dialogue: 0,0:02:12.53,0:02:13.80,GintamaPTBR,KAGURA,0000,0000,0000,,Parem!
+Dialogue: 0,0:02:20.45,0:02:21.67,GintamaPTBR,SHINPACHI,0000,0000,0000,,Fim da linha...
+Dialogue: 0,0:02:26.98,0:02:28.42,GintamaPTBR,SAMURAI A,0000,0000,0000,,Finalmente é o fim de vocês...
+Dialogue: 0,0:02:28.80,0:02:31.90,GintamaPTBR,GINTOKI,0000,0000,0000,,Do que vocês estão falando, nós que deixamos vocês chegarem aqui.
+Dialogue: 0,0:02:31.90,0:02:33.18,GintamaPTBR,KAGURA,0000,0000,0000,,Vocês deviam agradecer!
+Dialogue: 0,0:02:33.50,0:02:35.05,GintamaPTBR,SAMURAI B,0000,0000,0000,,O que foi? \NSão maus perdedores?
+Dialogue: 0,0:02:35.05,0:02:37.48,GintamaPTBR,SAMURAI B,0000,0000,0000,,Vocês é que fugiram por toda a cidade!
+Dialogue: 0,0:02:37.48,0:02:38.91,GintamaPTBR,SAMURAI C,0000,0000,0000,,De onde vocês são?
+Dialogue: 0,0:02:38.91,0:02:42.22,GintamaPTBR,SAMURAI D,0000,0000,0000,,Vocês só podem ser os espiões\Nque vieram roubar o nosso segredo.
+Dialogue: 0,0:02:42.22,0:02:44.72,GintamaPTBR,SAMURAI A,0000,0000,0000,,Antes de cortar vocês, vou perguntar mais uma vez.
+Dialogue: 0,0:02:44.72,0:02:47.14,GintamaPTBR,SAMURAI A,0000,0000,0000,,Quem são vocês, afinal?
+Dialogue: 0,0:02:47.14,0:02:48.85,GintamaPTBR,GINTOKI,0000,0000,0000,,Quem somos nós?
+Dialogue: 0,0:02:48.85,0:02:52.09,GintamaPTBR,SHINACHI,0000,0000,0000,,Ah... não posso fazer nada, vou dizer então.
+Dialogue: 0,0:02:53.16,0:02:54.54,GintamaPTBR,SHINACHI,0000,0000,0000,,Nós fazemos tudo, desde trabalho doméstico
+Dialogue: 0,0:02:54.54,0:02:56.72,GintamaPTBR,SHINACHI,0000,0000,0000,,até encontrar pessoas desaparecidas!
+Dialogue: 0,0:02:56.72,0:02:59.48,GintamaPTBR,KAGURA,0000,0000,0000,,Se você estiver com problemas, pode vir falar conosco!
+Dialogue: 0,0:02:59.48,0:03:03.08,GintamaPTBR,GINTOKI,0000,0000,0000,,Pegamos qualquer coisa. Qualquer trabalho, desde que nos pague.
+Dialogue: 0,0:03:03.63,0:03:06.91,GintamaPTBR,GINTOKI,0000,0000,0000,,Nós somos o Faz Tudo Gin!
+Dialogue: 0,0:03:07.26,0:03:10.06,GintamaPTBR,SAMURAI D,0000,0000,0000,,Faz Tudo? Quer dizer que vocês fazem qualquer coisa?
+Dialogue: 0,0:03:10.06,0:03:14.59,GintamaPTBR,SAMURAI A,0000,0000,0000,,Entendo... Então vocês entraram na nossa fábrica e...
+Dialogue: 0,0:03:19.33,0:03:20.35,GintamaPTBR,KAGURA,0000,0000,0000,,Lá está ele!
+Dialogue: 0,0:03:20.35,0:03:21.24,GintamaPTBR,SHINPACHI,0000,0000,0000,,Sem dúvidas!
+Dialogue: 0,0:03:21.59,0:03:24.20,GintamaPTBR,SHINPACHI,0000,0000,0000,,Essa é a Kuromi do Sr. Yamatoya!
+Dialogue: 0,0:03:25.61,0:03:27.88,GintamaPTBR,KAGURA,0000,0000,0000,,Olha, pega uma alga.
+Dialogue: 0,0:03:29.35,0:03:31.37,GintamaPTBR,GINTOKI,0000,0000,0000,,Ei, gato de merda! Espere por mim!
+Dialogue: 0,0:03:33.92,0:03:36.02,GintamaPTBR,SAMURAI A,0000,0000,0000,,Eles estavam procurando um gato?
+Dialogue: 0,0:05:07.55,0:05:12.54,Signs Red,CAPTION,0000,0000,0000,,Prazer, este é o anime "Gintama".
+Dialogue: 0,0:05:12.54,0:05:17.58,Signs Red,CAPTION,0000,0000,0000,,Se escreve "Gin" de prata e "Tama" de alma.
+Dialogue: 0,0:05:17.58,0:05:22.63,Signs Red,CAPTION,0000,0000,0000,,Não escreva "Kintama" por engano, pois isso significa "testículos".
+Dialogue: 0,0:05:22.63,0:05:27.62,Signs Red,CAPTION,0000,0000,0000,,Agora vamos nos empolgar com um especial de uma hora!
+Dialogue: 0,0:05:27.62,0:06:07.61,Signs,CAPTION,0000,0000,0000,,{\an7}A história até agora
+Dialogue: 0,0:05:29.44,0:05:35.40,GintamaPTBR,SHINPACHI,0000,0000,0000,,O país dos samurais. O nosso país antigamente era chamado assim.
+Dialogue: 0,0:05:35.40,0:05:40.02,GintamaPTBR,SHINPACHI,0000,0000,0000,,Há 20 anos, com a chegada\Ndos "Amanto" do espaço
+Dialogue: 0,0:05:40.02,0:05:41.84,GintamaPTBR,SHINPACHI,0000,0000,0000,,e a proibição das espadas,
+Dialogue: 0,0:05:41.84,0:05:43.81,GintamaPTBR,SHINPACHI,0000,0000,0000,,os samurais entraram em declínio.
+Dialogue: 0,0:05:44.58,0:05:48.70,GintamaPTBR,SHINPACHI,0000,0000,0000,,Nesta era, há um homem \Nque mantém sua alma de samurai.
+Dialogue: 0,0:05:48.70,0:05:51.25,GintamaPTBR,,0000,0000,0000,,Seu nome é Gintoki Sakata.
+Dialogue: 0,0:05:52.32,0:05:59.28,GintamaPTBR,SHINPACHI,0000,0000,0000,,Eu, Shinpachi Shimura, trabalho no Faz Tudo desse cara, junto da Kagura.
+Dialogue: 0,0:05:59.77,0:06:03.21,GintamaPTBR,SHINPACHI,0000,0000,0000,,Falando nisso, acho que já \Ntrabalhamos para ele faz um ano,
+Dialogue: 0,0:06:03.21,0:06:05.73,GintamaPTBR,,0000,0000,0000,,mas ainda não recebemos salário.
+Dialogue: 0,0:06:07.88,0:06:13.65,Signs,TITLE,0000,0000,0000,,Malditos! Vocês ousam dizer que têm uma alma de prata?
+Dialogue: 0,0:06:15.26,0:06:17.40,GintamaPTBR,WAITRESS,0000,0000,0000,,O Sr. Kariya chegou!
+Dialogue: 0,0:06:18.47,0:06:20.18,GintamaPTBR,KARIYA,0000,0000,0000,,E aí!
+Dialogue: 0,0:06:20.44,0:06:22.17,GintamaPTBR,SHIMOMOTO,0000,0000,0000,,E aí!
+Dialogue: 0,0:06:22.64,0:06:25.07,GintamaPTBR,KARIYA,0000,0000,0000,,Baixo demais, mais uma vez!
+Dialogue: 0,0:06:25.07,0:06:26.66,GintamaPTBR,KARIYA,0000,0000,0000,,E aí!
+Dialogue: 0,0:06:26.66,0:06:27.53,GintamaPTBR,SHIMOMOTO,0000,0000,0000,,E aí!
+Dialogue: 0,0:06:27.53,0:06:30.75,GintamaPTBR,KARIYA,0000,0000,0000,,Ainda está baixo, querem tentar mais uma vez?
+Dialogue: 0,0:06:30.75,0:06:33.93,GintamaPTBR,SHISHIMURA,0000,0000,0000,,Não, não temos muito tempo.
+Dialogue: 0,0:06:33.93,0:06:34.92,GintamaPTBR,KARIYA,0000,0000,0000,,Entendo.
+Dialogue: 0,0:06:34.92,0:06:37.81,Signs,,0000,0000,0000,,Kariya                                     Shishimura
+Dialogue: 0,0:06:35.50,0:06:37.81,GintamaPTBR,NARRATOR,0000,0000,0000,,Eles são os personagens convidados de hoje.
+Dialogue: 0,0:06:38.17,0:06:41.03,Signs,,0000,0000,0000,,Shimomoto                                   Puu
+Dialogue: 0,0:06:38.95,0:06:41.03,GintamaPTBR,NARRATOR,0000,0000,0000,,Eles certamente não são personagens regulares.
+Dialogue: 0,0:06:41.03,0:06:43.32,GintamaPTBR,SHIMOMOTO,0000,0000,0000,,E então, Sr. Kariya.
+Dialogue: 0,0:06:43.32,0:06:45.80,GintamaPTBR,PUU,0000,0000,0000,,Obrigado por ter vindo até aqui.
+Dialogue: 0,0:06:46.11,0:06:49.85,GintamaPTBR,KARIYA,0000,0000,0000,,Sem introduções. E o assunto que nós discutimos?
+Dialogue: 0,0:06:50.18,0:06:53.25,GintamaPTBR,SHIMOMOTO,0000,0000,0000,,Está tudo indo bem.
+Dialogue: 0,0:06:53.25,0:06:55.85,GintamaPTBR,SHIMOMOTO,0000,0000,0000,,Em primeiro lugar, aceite este projeto.
+Dialogue: 0,0:06:57.04,0:06:59.22,GintamaPTBR,SHIMOMOTO,0000,0000,0000,,Quanto ao objetivo do projeto...
+Dialogue: 0,0:06:59.22,0:07:00.17,GintamaPTBR,SHIMOMOTO,0000,0000,0000,,"Este projeto"...
+Dialogue: 0,0:07:00.50,0:07:03.74,GintamaPTBR,SHIMOMOTO,0000,0000,0000,,Eu não vou entender se me mostrarem isso!
+Dialogue: 0,0:07:03.74,0:07:06.43,GintamaPTBR,KARIYA,0000,0000,0000,,Isso é uma apresentação para um \Nanime que vai estrear na primavera?
+Dialogue: 0,0:07:08.94,0:07:10.82,GintamaPTBR,SHIMOMOTO,0000,0000,0000,,Me desculpe.
+Dialogue: 0,0:07:19.14,0:07:20.30,GintamaPTBR,YAMAZAKI,0000,0000,0000,,Aqui.
+Dialogue: 0,0:07:24.33,0:07:27.55,GintamaPTBR,NARRATOR,0000,0000,0000,,O Shinsengumi. A polícia especial do Xogunato.
+Dialogue: 0,0:07:28.28,0:07:31.04,GintamaPTBR,NARRATOR,0000,0000,0000,,Vice-chefe Hijikata, \No cérebro do Shinsengumi.
+Dialogue: 0,0:07:31.66,0:07:34.57,GintamaPTBR,NARRATOR,0000,0000,0000,,Okita, um dos melhores \Nespadachins do Shinsengumi.
+Dialogue: 0,0:07:34.83,0:07:37.24,GintamaPTBR,HIJIKATA,0000,0000,0000,,Yamazaki, dados da situação.
+Dialogue: 0,0:07:37.24,0:07:39.51,GintamaPTBR,YAMAZAKI,0000,0000,0000,,Eles estão tendo uma reunião na sala dos fundos no segundo andar.
+Dialogue: 0,0:07:39.51,0:07:42.83,GintamaPTBR,YAMAZAKI,0000,0000,0000,,São quatro, um Amanto,\N dois homens de negócios...
+Dialogue: 0,0:07:42.83,0:07:45.33,GintamaPTBR,,0000,0000,0000,,e um andarilho que parece ser forte.
+Dialogue: 0,0:07:45.33,0:07:46.68,GintamaPTBR,HIJIKATA,0000,0000,0000,,Ótimo...
+Dialogue: 0,0:07:46.68,0:07:48.18,GintamaPTBR,HIJIKATA,0000,0000,0000,,Vamos!
+Dialogue: 0,0:07:48.46,0:07:51.00,GintamaPTBR,SHIMOMOTO,0000,0000,0000,,Falando do objeto que o Sr. Kariya nos deu...
+Dialogue: 0,0:07:51.00,0:07:54.95,GintamaPTBR,SHIMOMOTO,0000,0000,0000,,Nós terminamos de montar o objeto Amanto em uma fábrica secreta.
+Dialogue: 0,0:07:54.95,0:07:57.90,GintamaPTBR,,0000,0000,0000,,Só precisamos ficar em posição.
+Dialogue: 0,0:07:59.51,0:08:03.08,GintamaPTBR,KARIYA,0000,0000,0000,,Se esse plano der certo, Edo cairá nas minhas mãos.
+Dialogue: 0,0:08:03.08,0:08:05.85,GintamaPTBR,SHIMOMOTO,0000,0000,0000,,Isso mesmo, Sr. Kariya!
+Dialogue: 0,0:08:10.96,0:08:12.38,GintamaPTBR,HIJIKATA,0000,0000,0000,,Isto é um ataque!
+Dialogue: 0,0:08:12.38,0:08:13.36,GintamaPTBR,MEMBER A,0000,0000,0000,,É o Shinsengumi!
+Dialogue: 0,0:08:13.36,0:08:14.14,GintamaPTBR,MEMBER A,0000,0000,0000,,Fiquem parados!
+Dialogue: 0,0:08:14.14,0:08:15.98,GintamaPTBR,HIJIKATA,0000,0000,0000,,Sogo! Vamos!
+Dialogue: 0,0:08:15.54,0:08:15.98,GintamaPTBR,OKITA,0000,0000,0000,,Certo!
+Dialogue: 0,0:08:21.76,0:08:23.21,GintamaPTBR,HIJIKATA,0000,0000,0000,,É o Shinsengumi!
+Dialogue: 0,0:08:28.51,0:08:32.49,GintamaPTBR,OKITA (M),0000,0000,0000,,Adeus, Vice-Chefe. Espero que goste de chupar maionese no outro mundo!
+Dialogue: 0,0:08:35.55,0:08:38.96,GintamaPTBR,HIJIKATA,0000,0000,0000,,Ei, Sogo, o que você está fazendo?
+Dialogue: 0,0:08:40.03,0:08:42.97,GintamaPTBR,HIJIKATA,0000,0000,0000,,Está tentando me matar?
+Dialogue: 0,0:08:42.97,0:08:45.91,GintamaPTBR,OKITA,0000,0000,0000,,Não, foi só uma piada.
+Dialogue: 0,0:08:45.91,0:08:47.72,GintamaPTBR,OKITA,0000,0000,0000,,Eu sempre faço isso.
+Dialogue: 0,0:08:47.72,0:08:51.13,GintamaPTBR,HIJIKATA,0000,0000,0000,,Você sempre tenta me matar?
+Dialogue: 0,0:08:51.42,0:08:56.00,GintamaPTBR,OKITA,0000,0000,0000,,De qualquer forma, Hijikata, parece que os nossos esforços foram em vão.
+Dialogue: 0,0:08:57.32,0:08:58.52,GintamaPTBR,HIJIKATA,0000,0000,0000,,Não.
+Dialogue: 0,0:08:58.52,0:09:00.10,GintamaPTBR,HIJIKATA,0000,0000,0000,,Não é bem assim...
+Dialogue: 0,0:09:01.34,0:09:04.57,Signs,TITLE,0000,0000,0000,,Faz Tudo Gin
+Dialogue: 0,0:09:04.57,0:09:06.29,GintamaPTBR,GINTOKI,0000,0000,0000,,Ah…
+Dialogue: 0,0:09:06.29,0:09:13.11,GintamaPTBR,GINTOKI,0000,0000,0000,,Eu já estou velho para ler JUMP, mas mesmo assim eu acabei comprando.
+Dialogue: 0,0:09:13.11,0:09:14.84,GintamaPTBR,KAGURA,0000,0000,0000,,Gin, é mesmo.
+Dialogue: 0,0:09:14.84,0:09:18.30,GintamaPTBR,KAGURA,0000,0000,0000,,Só ler mangá não\Nvai encher a barriga.
+Dialogue: 0,0:09:18.30,0:09:20.21,GintamaPTBR,KAGURA,0000,0000,0000,,Seu nível de açúcar\Nvai continuar o mesmo.
+Dialogue: 0,0:09:20.21,0:09:23.85,GintamaPTBR,GINTOKI,0000,0000,0000,,Eu sei, mas já virou um vício.
+Dialogue: 0,0:09:23.85,0:09:26.49,GintamaPTBR,GINTOKI,0000,0000,0000,,Eu não paro de pensar em comprar a próxima...
+Dialogue: 0,0:09:26.49,0:09:28.61,GintamaPTBR,SHINPACHI,0000,0000,0000,,Gin, isso não está bom...
+Dialogue: 0,0:09:28.61,0:09:32.60,GintamaPTBR,GINTOKI,0000,0000,0000,,Eu sei, alguém da minha idade não devia ler JUMP.
+Dialogue: 0,0:09:32.60,0:09:35.95,GintamaPTBR,KAGURA,0000,0000,0000,,Sim, e o seu bolinho de arroz está horrível!
+Dialogue: 0,0:09:35.95,0:09:37.12,GintamaPTBR,SHINPACHI,0000,0000,0000,,Não é disso que estou falando!
+Dialogue: 0,0:09:37.53,0:09:39.56,GintamaPTBR,SHINPACHI,0000,0000,0000,,Olhe isto!
+Dialogue: 0,0:09:39.56,0:09:41.31,GintamaPTBR,GINTOKI,0000,0000,0000,,Uma caderneta de depósitos?
+Dialogue: 0,0:09:41.31,0:09:45.60,GintamaPTBR,KAGURA,0000,0000,0000,,Você não vai me fazer de boba, não dá para comer isso!
+Dialogue: 0,0:09:45.60,0:09:47.95,GintamaPTBR,SHINPACHI,0000,0000,0000,,Nós não vamos conseguir comer nada, nem arroz!
+Dialogue: 0,0:09:47.95,0:09:51.61,GintamaPTBR,SHINPACHI,0000,0000,0000,,Eu estou triste que a conta está quase no vermelho!
+Dialogue: 0,0:09:51.61,0:09:55.53,GintamaPTBR,SHINPACHI,0000,0000,0000,,Ontem não conseguimos pegar o gato, então não conseguimos nada!
+Dialogue: 0,0:09:55.53,0:09:59.72,GintamaPTBR,GINTOKI,0000,0000,0000,,Se acalma, garoto que não conseguiu comprar a JUMP.
+Dialogue: 0,0:09:59.72,0:10:03.01,GintamaPTBR,GINTOKI,0000,0000,0000,,Não ter dinheiro é como ter uma rinite.
+Dialogue: 0,0:10:03.01,0:10:08.52,GintamaPTBR,GINTOKI,0000,0000,0000,,Nós vamos ficar muito tempo sem dinheiro, então tem que se acostumar.
+Dialogue: 0,0:10:08.52,0:10:14.18,GintamaPTBR,SHINPACHI,0000,0000,0000,,O que você está dizendo? Eu não estou falando da JUMP, estamos em apuros!
+Dialogue: 0,0:10:14.18,0:10:17.19,GintamaPTBR,SHINPACHI,0000,0000,0000,,Até casca do pão de ontem seria ótimo!
+Dialogue: 0,0:10:18.50,0:10:18.91,GintamaPTBR,GINTOKI,0000,0000,0000,,Isto é...
+Dialogue: 0,0:10:19.26,0:10:19.88,GintamaPTBR,KAGURA,0000,0000,0000,,Rinite?
+Dialogue: 0,0:10:19.88,0:10:21.13,GintamaPTBR,SHINPACHI,0000,0000,0000,,É um terremoto, idiota!
+Dialogue: 0,0:10:24.28,0:10:25.86,GintamaPTBR,GINTOKI,0000,0000,0000,,Parou.
+Dialogue: 0,0:10:25.86,0:10:28.57,GintamaPTBR,SHINPACHI,0000,0000,0000,,Ultimamente tem acontecido muitos terremotos.
+Dialogue: 0,0:10:28.57,0:10:32.70,GintamaPTBR,GINTOKI,0000,0000,0000,,Sim, tremendo como um colegial que tem que encarar...
+Dialogue: 0,0:10:32.70,0:10:34.37,GintamaPTBR,,0000,0000,0000,,as cinco garotas que o chamaram para sair.
+Dialogue: 0,0:10:34.37,0:10:37.00,GintamaPTBR,KAGURA,0000,0000,0000,,Como se isso fosse acontecer.
+Dialogue: 0,0:10:37.00,0:10:39.51,GintamaPTBR,GINTOKI,0000,0000,0000,,Mas poderia acontecer na JUMP.
+Dialogue: 0,0:10:40.22,0:10:41.98,GintamaPTBR,KAGURA,0000,0000,0000,,Um cliente?
+Dialogue: 0,0:10:41.98,0:10:44.39,GintamaPTBR,GINTOKI,0000,0000,0000,,Não pode ser, deve ser um vendedor de jornal.
+Dialogue: 0,0:10:44.65,0:10:49.40,GintamaPTBR,GINTOKI,0000,0000,0000,,Shinpachi, se não for do Nikkei, diga para ele que nós já assinamos.
+Dialogue: 0,0:10:49.40,0:10:53.32,GintamaPTBR,KAGURA,0000,0000,0000,,E se for do Nikkei, mande ele embora gentilmente, como o sol da manhã.
+Dialogue: 0,0:10:53.94,0:10:56.68,GintamaPTBR,SHINPACHI,0000,0000,0000,,Sim, já vou!
+Dialogue: 0,0:10:56.68,0:10:59.13,GintamaPTBR,SHINPACHI,0000,0000,0000,,Se for jornal, nós já assinamos.
+Dialogue: 0,0:10:59.13,0:11:00.31,GintamaPTBR,SHINPACHI,0000,0000,0000,,Hã?
+Dialogue: 0,0:11:07.09,0:11:08.36,GintamaPTBR,SHINPACHI,0000,0000,0000,,Ei...
+Dialogue: 0,0:11:09.31,0:11:14.02,GintamaPTBR,KATOKEN,0000,0000,0000,,Eu ouvi que vocês aceitam qualquer trabalho.
+Dialogue: 0,0:11:14.60,0:11:15.63,GintamaPTBR,SHINPACHI,0000,0000,0000,,Não...
+Dialogue: 0,0:11:15.63,0:11:17.82,GintamaPTBR,KAGURA,0000,0000,0000,,Shinpachi, o que você está fazendo?
+Dialogue: 0,0:11:17.82,0:11:20.66,GintamaPTBR,KAGURA,0000,0000,0000,,Se não se apressar,\N“Lady’s Four” vai começar.
+Dialogue: 0,0:11:20.66,0:11:23.55,GintamaPTBR,KATOKEN,0000,0000,0000,,Eu soube que aqui é um Faz Tudo.
+Dialogue: 0,0:11:23.89,0:11:25.01,GintamaPTBR,,0000,0000,0000,,...pode...
+Dialogue: 0,0:11:25.01,0:11:28.57,GintamaPTBR,GINTOKI,0000,0000,0000,,O que houve, não conseguiram se livrar do cara?
+Dialogue: 0,0:11:28.57,0:11:31.58,GintamaPTBR,GINTOKI,0000,0000,0000,,Ele não está usando a força com vocês?
+Dialogue: 0,0:11:31.58,0:11:33.34,GintamaPTBR,KATOKEN,0000,0000,0000,,É o Faz Tudo?
+Dialogue: 0,0:11:33.61,0:11:35.10,GintamaPTBR,GINTOKI,0000,0000,0000,,…ser!
+Dialogue: 0,0:11:35.10,0:11:35.89,GintamaPTBR,SHINPACHI,0000,0000,0000,,Não…
+Dialogue: 0,0:11:35.89,0:11:36.20,GintamaPTBR,KAGURA,0000,0000,0000,,…pode…
+Dialogue: 0,0:11:36.20,0:11:37.24,GintamaPTBR,GINTOKI,0000,0000,0000,,…ser!
+Dialogue: 0,0:11:38.27,0:11:40.69,GintamaPTBR,KATOKEN,0000,0000,0000,,Oi, oi, são vocês mesmo?
+Dialogue: 0,0:11:42.11,0:11:43.40,GintamaPTBR,GINTOKI,0000,0000,0000,,Não pode ser...
+Dialogue: 0,0:11:44.08,0:11:45.27,GintamaPTBR,GINTOKI,0000,0000,0000,,Você é um cliente?
+Dialogue: 0,0:11:48.01,0:11:51.03,GintamaPTBR,NARRATOR,0000,0000,0000,,Ken Kato. Samurai andarilho. Cliente de hoje.
+Dialogue: 0,0:11:52.00,0:11:57.99,GintamaPTBR,KATOKEN,0000,0000,0000,,Deixa eu me apresentar, sou Ken Kato. Já sou andarilho faz alguns anos.
+Dialogue: 0,0:11:58.59,0:12:01.35,GintamaPTBR,GINTOKI (whisper),0000,0000,0000,,Ei, o que diabos está acontecendo?
+Dialogue: 0,0:12:01.35,0:12:05.34,GintamaPTBR,KAGURA (whisper),0000,0000,0000,,Dois clientes em dois dias seguidos? Deve ser algum episódio especial!
+Dialogue: 0,0:12:05.75,0:12:08.90,GintamaPTBR,SHINPACHI,0000,0000,0000,,T-Tome um pouco de chá, por favor.
+Dialogue: 0,0:12:08.90,0:12:10.33,GintamaPTBR,KATOKEN,0000,0000,0000,,Quente!
+Dialogue: 0,0:12:09.30,0:12:10.33,GintamaPTBR,SHINPACHI,0000,0000,0000,,Opa!
+Dialogue: 0,0:12:10.33,0:12:11.57,GintamaPTBR,KATOKEN,0000,0000,0000,,Ei!
+Dialogue: 0,0:12:12.04,0:12:14.12,GintamaPTBR,KAGURA,0000,0000,0000,,Cala a boca, foi só uma piada!
+Dialogue: 0,0:12:14.38,0:12:17.12,GintamaPTBR,SHINPACHI,0000,0000,0000,,O quê? Por que você está irritada?
+Dialogue: 0,0:12:18.16,0:12:19.52,GintamaPTBR,GINTOKI,0000,0000,0000,,Então, qual o problema?
+Dialogue: 0,0:12:19.52,0:12:24.72,GintamaPTBR,KATOKEN,0000,0000,0000,,Bem... eu queria recuperar uma coisa que eu perdi.
+Dialogue: 0,0:12:24.72,0:12:27.85,GintamaPTBR,KATOKEN,0000,0000,0000,,É uma coisa muito importante para mim.
+Dialogue: 0,0:12:29.31,0:12:32.57,GintamaPTBR,SHINPACHI,0000,0000,0000,,Ei, o que você perdeu?
+Dialogue: 0,0:12:32.88,0:12:36.27,GintamaPTBR,KATOKEN,0000,0000,0000,,Isso... Se eu tiver uns 30 milhões de ienes eu consigo de volta...
+Dialogue: 0,0:12:36.27,0:12:40.30,GintamaPTBR,KAGURA,0000,0000,0000,,Ei, careca! Já esqueceu que eu disse que era só uma piada?!
+Dialogue: 0,0:12:41.01,0:12:42.96,GintamaPTBR,GINTOKI,0000,0000,0000,,Tem algum jeito fácil\Nde ganhar dinheiro?
+Dialogue: 0,0:12:42.96,0:12:46.60,GintamaPTBR,GINTOKI,0000,0000,0000,,Ele sempre escapa das minhas mãos.
+Dialogue: 0,0:12:46.60,0:12:50.54,GintamaPTBR,SHINPACHI,0000,0000,0000,,Isso mesmo, sempre que você mexe as mãos, perdemos mais dinheiro!
+Dialogue: 0,0:12:50.90,0:12:54.12,GintamaPTBR,KATOKEN,0000,0000,0000,,Mas eu soube que vocês pegavam qualquer trabalho...
+Dialogue: 0,0:12:54.12,0:12:57.13,GintamaPTBR,KAGURA,0000,0000,0000,,Nós não conseguimos nem pagar o aluguel!
+Dialogue: 0,0:12:57.13,0:13:00.60,GintamaPTBR,KAGURA,0000,0000,0000,,Com isso não tem jeito de cuidarmos dos problemas de outra pessoa!
+Dialogue: 0,0:13:00.90,0:13:07.01,GintamaPTBR,GINTOKI,0000,0000,0000,,Se acalmem. E você, o que você faria com o dinheiro?
+Dialogue: 0,0:13:07.83,0:13:12.34,GintamaPTBR,KATOKEN,0000,0000,0000,,Um mês atrás, eu fiquei sem utilidade e me despediram.
+Dialogue: 0,0:13:13.50,0:13:19.02,GintamaPTBR,KATOKEN,0000,0000,0000,,E três semana atrás, eu fui enganado e perdi minha casa.
+Dialogue: 0,0:13:20.37,0:13:23.31,GintamaPTBR,KATOKEN,0000,0000,0000,,Duas semanas atrás, minha \Nmulher e minha filha...
+Dialogue: 0,0:13:23.31,0:13:25.58,GintamaPTBR,,0000,0000,0000,,me deixaram sem\N nem escrever uma carta.
+Dialogue: 0,0:13:27.68,0:13:29.15,GintamaPTBR,KATOKEN,0000,0000,0000,,E uma semana atrás...
+Dialogue: 0,0:13:36.80,0:13:38.44,GintamaPTBR,SHINPACHI,0000,0000,0000,,Por que você parou?
+Dialogue: 0,0:13:38.44,0:13:43.29,GintamaPTBR,SHINPACHI,0000,0000,0000,,Desembucha! Tragédias assim acontecem com você toda semana?
+Dialogue: 0,0:13:43.29,0:13:46.01,GintamaPTBR,KAGURA,0000,0000,0000,,Nos diga o que aconteceu na última semana!
+Dialogue: 0,0:13:46.61,0:13:49.49,GintamaPTBR,KATOKEN,0000,0000,0000,,Vocês querem ouvir o resto?
+Dialogue: 0,0:13:52.97,0:13:56.85,GintamaPTBR,KAGURA,0000,0000,0000,,Por que ele só vai contar o fim quando terminarmos o trabalho?
+Dialogue: 0,0:13:56.85,0:14:00.09,GintamaPTBR,SHINPACHI,0000,0000,0000,,Tanto faz, acho que nunca conseguiremos terminar esse trabalho.
+Dialogue: 0,0:14:00.68,0:14:01.98,GintamaPTBR,KATOKEN,0000,0000,0000,,Ei...
+Dialogue: 0,0:14:01.98,0:14:03.32,GintamaPTBR,KATOKEN,0000,0000,0000,,Aonde nós vamos?
+Dialogue: 0,0:14:03.79,0:14:08.34,GintamaPTBR,GINTOKI,0000,0000,0000,,Bem, o negócio é conseguir dinheiro o mais rápido possível, não é?
+Dialogue: 0,0:14:09.34,0:14:12.36,GintamaPTBR,OTOSE,0000,0000,0000,,Bem-vindos... Ah, são vocês.
+Dialogue: 0,0:14:12.82,0:14:17.73,GintamaPTBR,NARRATOR,0000,0000,0000,,Otose. Proprietária da Casa de Lanches Otose e locadora do imóvel de Gintoki.
+Dialogue: 0,0:14:19.68,0:14:21.52,GintamaPTBR,OTOSE,0000,0000,0000,,Entendo.
+Dialogue: 0,0:14:21.52,0:14:23.41,GintamaPTBR,CATHERINE,0000,0000,0000,,Vocês são uns molengas!
+Dialogue: 0,0:14:23.41,0:14:26.65,GintamaPTBR,CATHERINE,0000,0000,0000,,Se tivesse um jeito de conseguir dinheiro tão rápido,
+Dialogue: 0,0:14:26.65,0:14:29.15,GintamaPTBR,,0000,0000,0000,,não haveria ladrões no mundo, idiotas!
+Dialogue: 0,0:14:29.15,0:14:31.48,GintamaPTBR,KAGURA,0000,0000,0000,,Você não era uma ladra?!
+Dialogue: 0,0:14:31.48,0:14:32.47,GintamaPTBR,SHINPACHI,0000,0000,0000,,É mesmo.
+Dialogue: 0,0:14:32.88,0:14:35.25,GintamaPTBR,NARRATOR,0000,0000,0000,,Catherine. Trabalha na casa de Lanches Otose.
+Dialogue: 0,0:14:35.25,0:14:37.80,GintamaPTBR,,0000,0000,0000,,Veio à Terra como imigrante para \Nmandar dinheiro para a terra natal.
+Dialogue: 0,0:14:39.90,0:14:43.27,GintamaPTBR,NARRATOR,0000,0000,0000,,Bem, deve ter um jeito...
+Dialogue: 0,0:14:44.89,0:14:47.14,GintamaPTBR,DOCTOR,0000,0000,0000,,Então, o que vai ser?
+Dialogue: 0,0:14:47.14,0:14:48.91,GintamaPTBR,KATOKEN,0000,0000,0000,,Ah... bem...
+Dialogue: 0,0:14:48.91,0:14:52.13,GintamaPTBR,OTOSE,0000,0000,0000,,Você tem dois, qual o\N problema de vender um?
+Dialogue: 0,0:14:52.13,0:14:54.26,GintamaPTBR,OTOSE,0000,0000,0000,,Se você fosse homem, venderia um!
+Dialogue: 0,0:14:54.26,0:14:55.54,GintamaPTBR,SHINPACHI,0000,0000,0000,,Isso não vai funcionar.
+Dialogue: 0,0:14:55.88,0:14:59.36,GintamaPTBR,GINTOKI,0000,0000,0000,,Puxa, você só sabe falar.
+Dialogue: 0,0:14:59.36,0:15:03.03,GintamaPTBR,GINTOKI,0000,0000,0000,,Se você não está preparado, não vai acontecer.
+Dialogue: 0,0:15:03.03,0:15:05.59,GintamaPTBR,SHINPACHI,0000,0000,0000,,Não, é impossível... Impossível...
+Dialogue: 0,0:15:11.73,0:15:13.73,GintamaPTBR,SACHAN,0000,0000,0000,,E aí, pessoal. Que coincidência.
+Dialogue: 0,0:15:14.11,0:15:19.17,GintamaPTBR,NARRATOR,0000,0000,0000,,Ayame Sarutobi. Apelido: Sa. Uma antiga ninja de elite do Oniwabanshu.
+Dialogue: 0,0:15:19.68,0:15:20.84,GintamaPTBR,SACHAN,0000,0000,0000,,Hã?
+Dialogue: 0,0:15:20.84,0:15:23.57,GintamaPTBR,SACHAN,0000,0000,0000,,Um jeito de conseguir dinheiro rápido?
+Dialogue: 0,0:15:23.57,0:15:26.62,GintamaPTBR,SHINPACHI,0000,0000,0000,,Sa, por que você não coloca os óculos?
+Dialogue: 0,0:15:26.62,0:15:28.88,GintamaPTBR,SHINPACHI,0000,0000,0000,,Você só causa problemas para os outros.
+Dialogue: 0,0:15:28.88,0:15:30.99,GintamaPTBR,,0000,0000,0000,,Eu não me importo se o seu personagem parece comigo.
+Dialogue: 0,0:15:31.49,0:15:33.11,GintamaPTBR,SACHAN,0000,0000,0000,,Do que você está falando?
+Dialogue: 0,0:15:33.11,0:15:36.94,GintamaPTBR,SACHAN,0000,0000,0000,,Eu não dou a mínima para você.
+Dialogue: 0,0:15:36.94,0:15:38.75,GintamaPTBR,SACHAN,0000,0000,0000,,Eu só ligo...
+Dialogue: 0,0:15:41.49,0:15:43.89,GintamaPTBR,SACHAN,0000,0000,0000,,...para você, Gin.
+Dialogue: 0,0:15:45.75,0:15:48.21,GintamaPTBR,SHINPACHI,0000,0000,0000,,Entende por que eu disse para botar os óculos?
+Dialogue: 0,0:15:48.66,0:15:49.48,GintamaPTBR,SACHAN,0000,0000,0000,,Entendo.
+Dialogue: 0,0:15:49.74,0:15:52.10,GintamaPTBR,SACHAN,0000,0000,0000,,Então o dinheiro que\Nvocês falam não é
+Dialogue: 0,0:15:52.10,0:15:53.80,GintamaPTBR,SACHAN,0000,0000,0000,,para comprar o meu\Nninho de amor com o Gin?
+Dialogue: 0,0:15:54.28,0:15:56.71,GintamaPTBR,GINTOKI,0000,0000,0000,,Ninho de amor?
+Dialogue: 0,0:15:56.71,0:15:59.46,GintamaPTBR,GINTOKI,0000,0000,0000,,Eu não consigo nem pensar em sentar do seu lado num restaurante.
+Dialogue: 0,0:15:59.46,0:16:01.43,GintamaPTBR,SACHAN,0000,0000,0000,,Frio como sempre.
+Dialogue: 0,0:16:01.43,0:16:04.26,GintamaPTBR,SACHAN,0000,0000,0000,,Mas eu não desisto fácil.
+Dialogue: 0,0:16:04.61,0:16:07.21,GintamaPTBR,GINTOKI,0000,0000,0000,,E o que é esse natto?
+Dialogue: 0,0:16:07.21,0:16:10.23,GintamaPTBR,GINTOKI,0000,0000,0000,,Só segurar não vai fazer você perder peso.
+Dialogue: 0,0:16:10.23,0:16:14.71,GintamaPTBR,SACHAN,0000,0000,0000,,Então você acha que fazer isso comigo vai te deixar feliz?
+Dialogue: 0,0:16:14.71,0:16:18.65,GintamaPTBR,GINTOKI,0000,0000,0000,,Deixa de falar e faz alguma coisa com esse natto, mulher!
+Dialogue: 0,0:16:15.29,0:16:16.56,GintamaPTBR,SACHAN,0000,0000,0000,,{\an8}Aí vai.
+Dialogue: 0,0:16:19.94,0:16:22.02,GintamaPTBR,SACHAN,0000,0000,0000,,Isso... Exatamente!
+Dialogue: 0,0:16:22.02,0:16:26.24,GintamaPTBR,SACHAN,0000,0000,0000,,Pode continuar! Jogue toda a sua raiva em mim!
+Dialogue: 0,0:16:26.24,0:16:28.12,GintamaPTBR,SACHAN,0000,0000,0000,,Você está me deixando excitada!
+Dialogue: 0,0:16:29.28,0:16:30.26,GintamaPTBR,SHINPACHI,0000,0000,0000,,O que é isso? Fede!
+Dialogue: 0,0:16:30.26,0:16:31.36,GintamaPTBR,SHINPACHI,0000,0000,0000,,Que cheiro é esse?
+Dialogue: 0,0:16:31.36,0:16:33.53,GintamaPTBR,KAGURA,0000,0000,0000,,Cheira a natto e masoquismo.
+Dialogue: 0,0:16:36.05,0:16:37.51,GintamaPTBR,PUU,0000,0000,0000,,Kato.
+Dialogue: 0,0:16:36.05,0:16:37.51,GintamaPTBR,SHIMOMOTO,0000,0000,0000,,Kato.
+Dialogue: 0,0:16:41.21,0:16:43.96,GintamaPTBR,PUU,0000,0000,0000,,E aí, Kato, como vai?
+Dialogue: 0,0:16:43.96,0:16:45.22,GintamaPTBR,KATOKEN,0000,0000,0000,,Ah, bem...
+Dialogue: 0,0:16:48.31,0:16:50.35,GintamaPTBR,SHIMOMOTO,0000,0000,0000,,Deve ter sido difícil, não é?
+Dialogue: 0,0:16:50.35,0:16:53.10,GintamaPTBR,SHIMOMOTO,0000,0000,0000,,Você coloca seu carimbo\Nnum contrato como aquele...
+Dialogue: 0,0:16:53.10,0:16:54.89,GintamaPTBR,SHIMOMOTO,0000,0000,0000,,Devia ter mais cuidado.
+Dialogue: 0,0:16:54.89,0:16:59.78,GintamaPTBR,PUU,0000,0000,0000,,Que pena... Sabemos que você está quebrado.
+Dialogue: 0,0:16:59.78,0:17:00.91,GintamaPTBR,KATOKEN,0000,0000,0000,,Hã? Como vocês souberam?
+Dialogue: 0,0:17:03.07,0:17:05.23,GintamaPTBR,SHIMOMOTO,0000,0000,0000,,E então, o que você anda fazendo?
+Dialogue: 0,0:17:05.23,0:17:08.65,GintamaPTBR,KATOKEN,0000,0000,0000,,Bem, estou trabalhando para recuperar a minha casa...
+Dialogue: 0,0:17:08.65,0:17:11.80,GintamaPTBR,PUU,0000,0000,0000,,Recuperar sua casa? Isso é impossível.
+Dialogue: 0,0:17:11.80,0:17:13.53,GintamaPTBR,SHIMOMOTO,0000,0000,0000,,É que olha só...
+Dialogue: 0,0:17:13.53,0:17:14.89,GintamaPTBR,PUU,0000,0000,0000,,Ei...
+Dialogue: 0,0:17:14.89,0:17:16.80,GintamaPTBR,SHIMOMOTO,0000,0000,0000,,Bem, isso mesmo...
+Dialogue: 0,0:17:16.80,0:17:19.91,GintamaPTBR,PUU,0000,0000,0000,,Quando você econtrar\Numa casa, nos avise.
+Dialogue: 0,0:17:19.91,0:17:22.34,GintamaPTBR,PUU,0000,0000,0000,,Ou pelo menos mande um cartão de ano novo, Kato.
+Dialogue: 0,0:17:23.77,0:17:24.87,GintamaPTBR,SHIMOMOTO,0000,0000,0000,,Tome um banho!
+Dialogue: 0,0:17:24.87,0:17:26.00,GintamaPTBR,PUU,0000,0000,0000,,Escove os dentes!
+Dialogue: 0,0:17:26.00,0:17:26.87,GintamaPTBR,SHIMOMOTO,0000,0000,0000,,Até semana que vem!
+Dialogue: 0,0:17:28.49,0:17:29.93,GintamaPTBR,SACHAN,0000,0000,0000,,Ei, você...
+Dialogue: 0,0:17:29.93,0:17:31.27,GintamaPTBR,KATOKEN,0000,0000,0000,,Sim?
+Dialogue: 0,0:17:31.27,0:17:33.39,GintamaPTBR,SACHAN,0000,0000,0000,,Talvez você queria mudar o seu trabalho.
+Dialogue: 0,0:17:33.39,0:17:37.13,GintamaPTBR,SACHAN,0000,0000,0000,,Eu posso matar alguém, já que eu sou assassina profissional.
+Dialogue: 0,0:17:37.13,0:17:38.53,GintamaPTBR,KAGURA,0000,0000,0000,,Vamos matá-los!
+Dialogue: 0,0:17:38.53,0:17:41.09,GintamaPTBR,KAGURA,0000,0000,0000,,Por que não acabamos logo com eles?
+Dialogue: 0,0:17:41.39,0:17:42.91,GintamaPTBR,KATOKEN,0000,0000,0000,,Não, esperem.
+Dialogue: 0,0:17:43.64,0:17:46.10,GintamaPTBR,KATOKEN,0000,0000,0000,,Eu vou trocar o meu pedido.
+Dialogue: 0,0:17:46.69,0:17:49.30,GintamaPTBR,KATOKEN,0000,0000,0000,,Mas não vai ser para assassinato...
+Dialogue: 0,0:17:50.85,0:17:53.84,GintamaPTBR,KATOKEN,0000,0000,0000,,Eu... quero ficar mais forte!
+Dialogue: 0,0:17:54.58,0:17:56.24,GintamaPTBR,SHINPACHI,0000,0000,0000,,Entendido!
+Dialogue: 0,0:17:56.24,0:17:57.50,GintamaPTBR,GINTOKI,0000,0000,0000,,Ei, pessoal...
+Dialogue: 0,0:17:58.64,0:18:01.40,GintamaPTBR,GINTOKI,0000,0000,0000,,Bem, de qualquer jeito,
+Dialogue: 0,0:18:01.40,0:18:03.59,GintamaPTBR,GINTOKI,0000,0000,0000,,podem aumentar  os pontos\Nde vida dele em uns 100 pontos.
+Dialogue: 0,0:18:03.94,0:18:06.42,GintamaPTBR,SHINPACHI,0000,0000,0000,,O que você vai fazer, Gin?
+Dialogue: 0,0:18:07.20,0:18:09.78,GintamaPTBR,GINTOKI,0000,0000,0000,,Eu tenho uma coisa para fazer.
+Dialogue: 0,0:18:13.24,0:18:15.15,GintamaPTBR,HIJIKATA,0000,0000,0000,,Então é isso.
+Dialogue: 0,0:18:15.15,0:18:16.20,GintamaPTBR,KONDO,0000,0000,0000,,Sim...
+Dialogue: 0,0:18:16.57,0:18:18.38,GintamaPTBR,KONDO,0000,0000,0000,,Isso é uma planta.
+Dialogue: 0,0:18:20.39,0:18:21.60,GintamaPTBR,NARRATOR,0000,0000,0000,,Isao Kondo.
+Dialogue: 0,0:18:21.60,0:18:24.04,GintamaPTBR,NARRATOR,0000,0000,0000,,Comandante do Shinsengumi.\NEnche os outros de medo.
+Dialogue: 0,0:18:24.63,0:18:26.00,GintamaPTBR,KONDO,0000,0000,0000,,Por sinal, Hijikata...
+Dialogue: 0,0:18:27.28,0:18:29.74,GintamaPTBR,KONDO,0000,0000,0000,,Eu não tenho a menor ideia do que é isto.
+Dialogue: 0,0:18:30.52,0:18:36.20,GintamaPTBR,HIJIKATA,0000,0000,0000,,Eu já disse que é um projeto de um aparelho Amanto, Kondo!
+Dialogue: 0,0:18:36.20,0:18:39.31,GintamaPTBR,KONDO,0000,0000,0000,,Entendo... Um aparelho...
+Dialogue: 0,0:18:40.03,0:18:43.62,GintamaPTBR,HIJIKATA,0000,0000,0000,,Sim, e querem fazer\Numa maldade bem grande
+Dialogue: 0,0:18:43.62,0:18:45.65,GintamaPTBR,HIJIKATA,0000,0000,0000,,usando esse aparelho em Edo.
+Dialogue: 0,0:18:47.26,0:18:48.46,GintamaPTBR,KONDO,0000,0000,0000,,Toshi…
+Dialogue: 0,0:18:51.99,0:18:53.45,GintamaPTBR,KONDO,0000,0000,0000,,O que você quer dizer com "maldade"?
+Dialogue: 0,0:18:55.06,0:18:57.43,GintamaPTBR,HIJIKATA,0000,0000,0000,,Você ouviu alguma coisa do que eu disse?
+Dialogue: 0,0:19:10.93,0:19:13.48,Signs,CAPTION,0000,0000,0000,,{\an8}Embaixada do Planeta Drift
+Dialogue: 0,0:19:17.64,0:19:19.25,GintamaPTBR,GINTOKI (M),0000,0000,0000,,Uma embaixada?
+Dialogue: 0,0:19:19.25,0:19:20.80,GintamaPTBR,KATSURA,0000,0000,0000,,Gintoki.
+Dialogue: 0,0:19:20.80,0:19:21.81,GintamaPTBR,GINTOKI,0000,0000,0000,,Zura?
+Dialogue: 0,0:19:22.19,0:19:24.44,GintamaPTBR,KATSURA,0000,0000,0000,,Não é Zura, é Katsura.
+Dialogue: 0,0:19:25.43,0:19:30.06,GintamaPTBR,NARRATOR,0000,0000,0000,,Kotaro Katsura. Membro do grupo \Ncontra a entrada de estrangeiros...
+Dialogue: 0,0:19:30.06,0:19:31.82,GintamaPTBR,,0000,0000,0000,,que quer livrar Edo dos Amanto.
+Dialogue: 0,0:19:33.32,0:19:35.56,GintamaPTBR,NARRATOR,0000,0000,0000,,Elizabeth. Que porra é essa?
+Dialogue: 0,0:19:36.14,0:19:39.19,GintamaPTBR,KATSURA,0000,0000,0000,,Gintoki, o que você está fazendo aqui?
+Dialogue: 0,0:19:39.19,0:19:46.12,GintamaPTBR,GINTOKI,0000,0000,0000,,Bem... caminhando, fazendo jogging...\N Não sei direito, coisa do tipo.
+Dialogue: 0,0:19:46.12,0:19:47.61,GintamaPTBR,KATSURA,0000,0000,0000,,Ótimo.
+Dialogue: 0,0:19:48.78,0:19:50.78,GintamaPTBR,GINTOKI,0000,0000,0000,,O que você quer dizer?
+Dialogue: 0,0:19:50.78,0:19:54.19,GintamaPTBR,KATSURA,0000,0000,0000,,Eu ouvi uns rumores perigosos por aqui.
+Dialogue: 0,0:19:54.19,0:19:55.01,GintamaPTBR,GINTOKI,0000,0000,0000,,Rumores?
+Dialogue: 0,0:19:55.29,0:20:00.45,GintamaPTBR,KATSURA,0000,0000,0000,,Eu ouvi que um Amanto está\N tramando destruir Edo inteira.
+Dialogue: 0,0:20:00.76,0:20:04.21,GintamaPTBR,GINTOKI,0000,0000,0000,,Por que um Amanto faria uma coisa assim?
+Dialogue: 0,0:20:04.21,0:20:09.01,GintamaPTBR,KATSURA,0000,0000,0000,,Não sei. Mas se for verdade, temos que mostrar para eles quem manda.
+Dialogue: 0,0:20:10.22,0:20:14.91,GintamaPTBR,KATSURA,0000,0000,0000,,Gintoki, o que quer que você vá fazer, tome cuidado.
+Dialogue: 0,0:20:14.91,0:20:17.48,GintamaPTBR,KATSURA,0000,0000,0000,,A embaixada é considerada território estrangeiro.
+Dialogue: 0,0:20:18.38,0:20:20.41,GintamaPTBR,GINTOKI,0000,0000,0000,,Território estrangeiro...
+Dialogue: 0,0:20:21.32,0:20:23.49,GintamaPTBR,GINTOKI,0000,0000,0000,,Tenho que me cuidar então.
+Dialogue: 0,0:20:23.49,0:20:25.13,GintamaPTBR,GINTOKI,0000,0000,0000,,Até mais, Zura.
+Dialogue: 0,0:20:26.01,0:20:28.40,GintamaPTBR,KATSURA,0000,0000,0000,,Não é Zura, é Katsura.
+Dialogue: 0,0:20:40.68,0:20:42.58,GintamaPTBR,KATSURA,0000,0000,0000,,Esse chapéu está fora de moda.
+Dialogue: 0,0:20:48.47,0:20:50.79,GintamaPTBR,KAGURA,0000,0000,0000,,Certo, por que você não tenta?
+Dialogue: 0,0:20:50.79,0:20:51.77,GintamaPTBR,SHINPACHI,0000,0000,0000,,E ele consegue?
+Dialogue: 0,0:20:51.77,0:20:54.80,GintamaPTBR,KAGURA,0000,0000,0000,,Do que você está falando? É tão fácil!
+Dialogue: 0,0:20:54.80,0:20:57.77,GintamaPTBR,KAGURA,0000,0000,0000,,Suprima o seu eu interior e você pode parecer Antonio Inoki.
+Dialogue: 0,0:20:57.77,0:20:59.70,GintamaPTBR,SHINPACHI,0000,0000,0000,,Eu não sei do que você está falando.
+Dialogue: 0,0:21:02.24,0:21:05.05,GintamaPTBR,SHINPACHI,0000,0000,0000,,Certo, então faça como quiser.
+Dialogue: 0,0:21:06.09,0:21:07.30,GintamaPTBR,KATOKEN,0000,0000,0000,,Certo...
+Dialogue: 0,0:21:14.24,0:21:16.92,GintamaPTBR,GINTOKI,0000,0000,0000,,O que houve? Está com os\Nolhos vermelhos.
+Dialogue: 0,0:21:16.92,0:21:18.33,GintamaPTBR,GINTOKI,0000,0000,0000,,Passou a noite jogando Tetris?
+Dialogue: 0,0:21:19.62,0:21:22.30,GintamaPTBR,SHISHIMURA,0000,0000,0000,,O jogo começa agora.
+Dialogue: 0,0:21:22.30,0:21:23.68,GintamaPTBR,GINTOKI,0000,0000,0000,,Para com isso.
+Dialogue: 0,0:21:23.68,0:21:26.77,GintamaPTBR,GINTOKI,0000,0000,0000,,Se você balançar esse brinquedo assim, algo ruim vai acontecer.
+Dialogue: 0,0:21:27.92,0:21:31.04,GintamaPTBR,SHISHIMURA,0000,0000,0000,,Ele percebeu eu preparando a espada.
+Dialogue: 0,0:21:31.52,0:21:36.24,GintamaPTBR,GINTOKI,0000,0000,0000,,De qualquer forma podia ao menos me dizer por que quer me matar.
+Dialogue: 0,0:21:36.24,0:21:41.02,GintamaPTBR,SHISHIMURA,0000,0000,0000,,Idiota! Você sabe que está metendo o nariz onde não é chamado.
+Dialogue: 0,0:21:41.38,0:21:45.60,GintamaPTBR,GINTOKI,0000,0000,0000,,Errado, esse era o Zura, não era eu.
+Dialogue: 0,0:21:45.89,0:21:47.21,GintamaPTBR,GINTOKI,0000,0000,0000,,Já chega!
+Dialogue: 0,0:21:51.79,0:21:53.33,GintamaPTBR,GINTOKI,0000,0000,0000,,Um terremoto?
+Dialogue: 0,0:21:58.77,0:22:01.13,GintamaPTBR,SHINPACHI,0000,0000,0000,,Você está deixando a guarda aberta!
+Dialogue: 0,0:22:01.13,0:22:05.68,GintamaPTBR,SHINPACHI,0000,0000,0000,,Acha que vai ficar... mais forte assim, otário?
+Dialogue: 0,0:22:07.43,0:22:09.09,GintamaPTBR,SACHAN,0000,0000,0000,,Você foi rigoroso demais.
+Dialogue: 0,0:22:09.09,0:22:11.41,GintamaPTBR,SHINPACHI,0000,0000,0000,,Ah, me desculpe! \NTudo bem com você?
+Dialogue: 0,0:22:13.53,0:22:15.72,GintamaPTBR,KAGURA,0000,0000,0000,,Se levante, Ken Kato!
+Dialogue: 0,0:22:16.41,0:22:17.50,GintamaPTBR,KAGURA,0000,0000,0000,,Escuta só,
+Dialogue: 0,0:22:17.50,0:22:20.86,GintamaPTBR,KAGURA,0000,0000,0000,,tem que manter o seus cotovelos
+Dialogue: 0,0:22:20.86,0:22:24.60,GintamaPTBR,KAGURA,0000,0000,0000,,próximos do tronco e bater, bater, bater!
+Dialogue: 0,0:22:24.60,0:22:27.61,GintamaPTBR,SHINPACHI,0000,0000,0000,,Espere, isso é um jab!
+Dialogue: 0,0:22:27.61,0:22:31.03,GintamaPTBR,SHINPACHI,0000,0000,0000,,Isso não vai ajudar amanhã. \NNão tem nada a ver com espadas!
+Dialogue: 0,0:22:31.29,0:22:33.84,GintamaPTBR,KAGURA,0000,0000,0000,,Atravesse a ponte Namida com cuidado!
+Dialogue: 0,0:22:36.15,0:22:37.98,GintamaPTBR,SACHAN,0000,0000,0000,,Agora é a minha vez.
+Dialogue: 0,0:22:39.74,0:22:41.61,GintamaPTBR,SACHAN,0000,0000,0000,,Eu vou fazer você mais forte!
+Dialogue: 0,0:22:42.64,0:22:44.06,GintamaPTBR,SACHAN,0000,0000,0000,,Mais forte!
+Dialogue: 0,0:22:44.06,0:22:46.29,GintamaPTBR,KATOKEN,0000,0000,0000,,Assim?
+Dialogue: 0,0:22:46.29,0:22:48.33,GintamaPTBR,SACHAN,0000,0000,0000,,Mais! Mais!
+Dialogue: 0,0:22:48.33,0:22:50.09,GintamaPTBR,KATOKEN,0000,0000,0000,,Ah, sim!
+Dialogue: 0,0:22:50.09,0:22:52.25,GintamaPTBR,SACHAN,0000,0000,0000,,Assim... que gostoso!
+Dialogue: 0,0:22:52.25,0:22:54.32,GintamaPTBR,KATOKEN,0000,0000,0000,,Que tal assim?
+Dialogue: 0,0:22:54.32,0:22:56.82,GintamaPTBR,SACHAN,0000,0000,0000,,Você tem muito potencial.
+Dialogue: 0,0:22:56.82,0:22:58.43,GintamaPTBR,SHINPACHI,0000,0000,0000,,Que treino foi esse?
+Dialogue: 0,0:22:58.43,0:23:00.91,GintamaPTBR,SHINPACHI,0000,0000,0000,,Que tipo de potencial ele tem?
+Dialogue: 0,0:23:00.91,0:23:02.10,GintamaPTBR,SACHAN,0000,0000,0000,,Como uma dominadora.
+Dialogue: 0,0:23:02.10,0:23:05.09,GintamaPTBR,SHINPACHI,0000,0000,0000,,Ele é homem, e não é esse o problema!
+Dialogue: 0,0:23:05.41,0:23:10.09,GintamaPTBR,KAGURA,0000,0000,0000,,Uau, você é bem paciente, lá vai outro aperitivo!
+Dialogue: 0,0:23:10.09,0:23:12.12,GintamaPTBR,SHINPACHI,0000,0000,0000,,Tudo bem, pode me soltar agora!
+Dialogue: 0,0:23:12.12,0:23:12.99,GintamaPTBR,KATOKEN,0000,0000,0000,,Ei...
+Dialogue: 0,0:23:14.10,0:23:17.20,GintamaPTBR,KATOKEN,0000,0000,0000,,Muito obrigado, mas já chega.
+Dialogue: 0,0:23:18.09,0:23:21.48,GintamaPTBR,KATOKEN,0000,0000,0000,,Eu não posso mesmo ficar mais forte.
+Dialogue: 0,0:23:21.48,0:23:23.14,GintamaPTBR,KATOKEN,0000,0000,0000,,Eu desisto...
+Dialogue: 0,0:23:23.44,0:23:25.11,GintamaPTBR,SHINPACHI,0000,0000,0000,,Hã... Mas...
+Dialogue: 0,0:23:25.11,0:23:26.88,GintamaPTBR,KATOKEN,0000,0000,0000,,Então eu vou indo.
+Dialogue: 0,0:23:28.38,0:23:29.59,GintamaPTBR,KAGURA,0000,0000,0000,,Ken Kato…
+Dialogue: 0,0:23:35.49,0:23:37.78,GintamaPTBR,GINTOKI,0000,0000,0000,,Puxa, minha melhor roupa...
+Dialogue: 0,0:23:37.78,0:23:40.05,GintamaPTBR,GINTOKI,0000,0000,0000,,Minha mãe vai ficar irritada, maldito!
+Dialogue: 0,0:23:40.31,0:23:43.69,GintamaPTBR,SHISHIMURA,0000,0000,0000,,Você devia se preocupar mais com a sua vida do que com suas roupas!
+Dialogue: 0,0:23:49.82,0:23:52.96,GintamaPTBR,NARRATOR,0000,0000,0000,,Quem é Shishimura, o homem misterioso que está atacando Gintoki?
+Dialogue: 0,0:23:52.96,0:23:56.26,GintamaPTBR,NARRATOR,0000,0000,0000,,E qual a maldade que o Amanto Kariya está planejando?
+Dialogue: 0,0:23:56.26,0:23:59.71,GintamaPTBR,NARRATOR,0000,0000,0000,,Kato desistiu mesmo?
+Dialogue: 0,0:24:04.51,0:24:05.74,GintamaPTBR,NARRATOR,0000,0000,0000,,E é hora
+Dialogue: 0,0:24:05.74,0:24:07.14,GintamaPTBR,NARRATOR,0000,0000,0000,,de dizer adeus para algumas
+Dialogue: 0,0:24:07.14,0:24:08.56,GintamaPTBR,NARRATOR,0000,0000,0000,,pessoas que moram\Nem um certo lugar.
+Dialogue: 0,0:24:08.56,0:24:12.54,GintamaPTBR,NARRATOR,0000,0000,0000,,Para os outros, podem continuar assistindo!
+Dialogue: 0,0:24:11.56,0:24:14.30,Continua,CAPTION,0000,0000,0000,,Continua
