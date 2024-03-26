@@ -1,0 +1,23 @@
+{
+  "video": {
+    "title": "Toaru Kagaku No Railgun S Opening 1",
+    "source": "https://animethemes.moe/video/ToaruKagakuNoRailgunS-OP1.webm",
+    "type": "video/webm",
+    "tracks": [
+      {
+        "src": "./subtitles/railgun_op.ass",
+        "srclang": "en",
+        "label": "English",
+        "kind": "subtitles",
+        "type": "application/x-ass"
+      },
+      {
+        "src": "./subtitles/test.ass",
+        "srclang": "jp",
+        "label": "Test Lang",
+        "kind": "subtitles",
+        "type": "application/x-ass"
+      }
+    ]
+  }
+}

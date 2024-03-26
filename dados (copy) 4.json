@@ -1,0 +1,50 @@
+{
+    "video": {
+        "title": "Toaru Kagaku No Railgun S Opening 1",
+        "sources": [
+          {
+            "src": "https://c-an-ca6.betterstream.cc:2223/hls-playback/98063112dce28814c573f29f978e3f28ddf16fd149e33b0b36ed1f3a6a19cef8974d9ec21a0700a03cebf28983429a7affe2f0d3544af2ac3bda3c7a18d33f3b2550cd50c2c24f70aa94280e73e9da50c7b3510e0e954064c8635efb46b8745be27c1da43556c48964690ba64aeab3afb7a7024f55ce1fc497c420e9/index-f3-v1-a1.m3u8",
+            "type": "application/x-mpegURL",
+            "quality": "Baixa"
+          },
+          {
+            "src": "https://c-an-ca6.betterstream.cc:2223/hls-playback/eadbd9e46297b018467942e79fccf0179f1605db98063112dce28814c573f29f978e3f28ddf16fd149e33b0b36ed1f3a6a19cef8974d9ec21a0700a03cebf28983429a7affe2f0d3544af2ac3bda3c7a18d33f3b2550cd50c2c24f70aa94280e73e9da50c7b3510e0e954064c8635efb46b8745be27c1da43556c48964690ba64aeab3afb7a7024f55ce1fc497c420e9/index-f2-v1-a1.m3u8",
+            "type": "application/x-mpegURL",
+            "quality": "Média"
+          },
+          {
+            "src": "https://c-an-ca6.betterstream.cc:2223/hls-playback/eadbd9e46297b018467942e79fccf0179f1605db98063112dce28814c573f29f978e3f28ddf16fd149e33b0b36ed1f3a6a19cef8974d9ec21a0700a03cebf28983429a7affe2f0d3544af2ac3bda3c7a18d33f3b2550cd50c2c24f70aa94280e73e9da50c7b3510e0e954064c8635efb46b8745be27c1da43556c48964690ba64aeab3afb7a7024f55ce1fc497c420e9/index-f1-v1-a1.m3u8",
+            "type": "application/x-mpegURL",
+            "quality": "Alta"
+          }
+        ],
+        "type": "application/x-mpegURL",
+        "poster": "img.jpg",
+        "tracks": [
+            {
+                "src": "./subtitles/railgun_op.ass",
+                "srclang": "en",
+                "label": "English",
+                "kind": "subtitles",
+                "type": "application/x-ass"
+            },
+            {
+                "src": "./subtitles/test.ass",
+                "srclang": "jp",
+                "label": "Test Lang",
+                "kind": "subtitles",
+                "type": "application/x-ass"
+            }
+        ],
+        "fonts": [
+            {
+                "name": "Cabin Condensed",
+                "url": "/fonts/CabinCondensed-Regular.ttf"
+            },
+            {
+                "name": "Source Sans Pro",
+                "url": "/fonts/SourceSansPro-SemiBold.ttf"
+            }
+        ]
+    }
+}

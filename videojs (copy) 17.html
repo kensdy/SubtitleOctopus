@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="referrer" content="no-referrer" />
+    <link rel="shortcut icon" href="./favicon.ico?v=wAOz4X2G7G">
+    <title>SubtitleOctopus - Advanced Substation Alpha Library for WebAssembly & asm.js</title>
+    <link href="https://vjs.zencdn.net/7.5.5/video-js.css" rel="stylesheet" />
+    <script src="https://vjs.zencdn.net/7.5.5/video.js"></script>
+    <script src="./assets/js/subtitles-octopus.js"></script>
+    <script src="./assets/js/main.js"></script>
+    <script src="https://unpkg.com/@silvermine/videojs-quality-selector@1.3.1/dist/js/silvermine-videojs-quality-selector.min.js"></script>
+    <link
+      href="https://unpkg.com/@silvermine/videojs-quality-selector/dist/css/quality-selector.css"
+      rel="stylesheet"
+    />
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="./index.html">SubtitlesOctopus</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nb" aria-controls="nb" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="nb">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="./index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://github.com/jellyfin/JavascriptSubtitlesOctopus">Github</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div id="content" style="padding-top: 25px;">
+        <div id="main" class="container container-body">
+            <h1>Video.JS Player Example</h1>
+            <h2 id="renderMode"></h2>
+            <video id="test" class="video-js" controls preload="auto" width="840" height="460" data-setup="{}">
+                <source
+                  src="https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ab/Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm/Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm.720p.vp9.webm"
+                  type="video/webm"
+                  label="720P"
+                />
+                <source
+                  src="https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ab/Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm/Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm.480p.vp9.webm"
+                  type="video/webm"
+                  label="480P"
+                  selected="true"
+                />
+                <source
+                  src="https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ab/Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm/Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm.360p.vp9.webm"
+                  type="video/webm"
+                  label="360P"
+                />
+                <source
+                  src="https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ab/Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm/Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm.240p.vp9.webm"
+                  type="video/webm"
+                  label="240P"
+                />
+                <track src="./subtitles/jojo1.ass" kind="subtitles" srclang="en" label="Jojo1">
+                <track src="./subtitles/aot3p2_op.ass" kind="subtitles" srclang="jp" label="AOT3P2_OP">
+                <track kind="metadata" label="subtitle off">
+                <p class="vjs-no-js">
+                    To view this video please enable JavaScript, and consider upgrading to a web browser that
+                    <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+                </p>
+            </video>
+            <script>
+              videojs("test", {}, function () {
+                var player = this;
+
+                player.controlBar.addChild("QualitySelector");
+              });
+            </script>
+            <link href="https://vjs.zencdn.net/7.5.5/video-js.css" rel="stylesheet" />
+            <script src="https://vjs.zencdn.net/7.5.5/video.js"></script>
+
+            <script>
+                var baseUrl = getBaseUrl();
+
+                var player = videojs('#test');
+                player.ready(function () {
+                    var video = this.tech_.el_;
+                    window.SubtitlesOctopusOnLoad = function () {
+                        var options = makeOptions({
+                            video: video,
+                            subUrl: baseUrl + '/subtitles/jojo1.ass',
+                            fonts: [baseUrl + '/fonts/Arial.ttf', baseUrl + '/fonts/TimesNewRoman.ttf'],
+                            debug: true,
+                            workerUrl: baseUrl + '/assets/js/subtitles-octopus-worker.js',
+                            legacyWorkerUrl: baseUrl + '/assets/js/subtitles-octopus-worker-legacy.js'
+                        });
+                        window.octopusInstance = new SubtitlesOctopus(options);
+                        document.querySelector('#renderMode').innerText = getRenderModeName(window.octopusInstance);
+                    };
+                    if (SubtitlesOctopus) {
+                        SubtitlesOctopusOnLoad();
+                    }
+
+                    player.on('texttrackchange', function () {
+                        var selectedTrack = Array.from(player.textTracks()).find(function (track) {
+                            return track.mode === 'showing';
+                        });
+                        if (selectedTrack && selectedTrack.label !== "subtitle off") {
+                            var subtitleUrl = baseUrl + '/' + selectedTrack.src;
+                            window.octopusInstance.setTrackByUrl(subtitleUrl);
+                        } else {
+                            window.octopusInstance.freeTrack();
+                        }
+                    });
+                });
+            </script>
+        </div>
+    </div>
+</body>
+
+</html>

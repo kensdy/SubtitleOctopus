@@ -6,7 +6,7 @@
         "poster": "img.jpg",
         "tracks": [
             {
-                "src": "./subtitles/jojo1.ass",
+                "src": "./subtitles/railgun_op.ass",
                 "srclang": "en",
                 "label": "English",
                 "kind": "subtitles",
